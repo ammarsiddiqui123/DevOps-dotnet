@@ -1,0 +1,15 @@
+C:\azure-dotnet\bin\Debug\net7.0\azure-dotnet.exe
+C:\azure-dotnet\bin\Debug\net7.0\azure-dotnet.deps.json
+C:\azure-dotnet\bin\Debug\net7.0\azure-dotnet.runtimeconfig.json
+C:\azure-dotnet\bin\Debug\net7.0\azure-dotnet.dll
+C:\azure-dotnet\bin\Debug\net7.0\azure-dotnet.pdb
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.csproj.AssemblyReference.cache
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.AssemblyInfoInputs.cache
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.AssemblyInfo.cs
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.csproj.CoreCompileInputs.cache
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.dll
+C:\azure-dotnet\obj\Debug\net7.0\refint\azure-dotnet.dll
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.pdb
+C:\azure-dotnet\obj\Debug\net7.0\azure-dotnet.genruntimeconfig.cache
+C:\azure-dotnet\obj\Debug\net7.0\ref\azure-dotnet.dll
